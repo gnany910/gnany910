@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently learning **Full Stack(MERN) Web Development in Nxtwave**
 
-- 🌱 I’m currently open for **Working in MERN stack applications**
+- 🌱 I’m currently open for **Working in MERN stack Web applications**
 
-- 👯 I’m looking to collaborate **on building MERN stack applications**
+- 👯 I’m looking to collaborate **on building MERN stack Web applications**
 
 - 💬 Ask me about **MongoDB | ExpressJS | ReactJS | NodeJS | JavaScript | Python | SQL | Git**
 
