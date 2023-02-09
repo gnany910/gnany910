@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs in Nxtwave**
 
-- 👯 I’m looking to collaborate on **on building MERN stack applications**
+- 👯 I’m looking to collaborate **on building MERN stack applications**
 
 - 💬 Ask me about **MongoDB | ExpressJS | ReactJS | NodeJS | JavaScript | Python | SQL | Git**
 
