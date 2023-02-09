@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gnanendra Reddy</h1>
-<h3 align="center">Welcome to my GitHub Profile! I am a Full Stack Web Developer</h3>
+<h3 align="center">Welcome to my GitHub Profile! I am an Aspiring Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gnany910&label=Profile%20views&color=0e75b6&style=flat" alt="gnany910" /> </p>
 
