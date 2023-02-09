@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gnany910&label=Profile%20views&color=0e75b6&style=flat" alt="gnany910" /> </p>
 
-- 🔭 I’m currently learning **Full Stack(MERN) Web Development**
+- 🔭 I’m currently learning **Full Stack(MERN) Web Development in Nxtwave**
 
-- 🌱 I’m currently learning **ReactJs in Nxtwave**
+- 🌱 I’m currently open for **Working in MERN stack applications**
 
 - 👯 I’m looking to collaborate **on building MERN stack applications**
 
